@@ -1,0 +1,16 @@
+image 1:
+from a human perspective , we know that the left part of the image is a side walk due to the absence of cars,
+the relatively dense human presence in that side at this point the machine failed and "predicted that the road is within the side walk. The machine also failed to predict the buildings on the right of the picture , regarding the hight and the dense light presence , a human could define it as a building, at the left also .
+image 2:
+in this image , a human being could recognize the cars and the bus , and assume that they're on a road
+at this point the machine failed to recognize nearly anything , it even said that some cars are part of
+vegetation
+image 3:
+the sand storm is prohibiting to see what's on the center of the image , from a human point of view
+the building , the road and the cars are obvious , once again the machine failed to recognize any of
+them
+image 4:
+a rotated image confuse easily the machine , a better way to handle this is to rotate the image on all sides
+try to see how % of the image is recognized  , the best % is propably the right perspective.
+image 5:
+this is the best prediction so far , the more the shapes are obvious , the better the algorithm does
